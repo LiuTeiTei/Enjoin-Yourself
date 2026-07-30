@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3375" viewBox="0 0 1080 3375">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F1E3"/><stop offset=".55" stop-color="#EEF4EF"/><stop offset="1" stop-color="#E4F0EC"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="13" stdDeviation="18" flood-color="#557066" flood-opacity=".14"/></filter>
+    <style>
+      .sans{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}.eyebrow{font:600 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:3px;fill:#668078}.hero{font:800 49px "PingFang SC","Microsoft YaHei",sans-serif;fill:#173E35}.sub{font:400 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#58716B}.title{font:700 31px "PingFang SC","Microsoft YaHei",sans-serif;fill:#2E7060}.small{font:400 25px "PingFang SC","Microsoft YaHei",sans-serif;fill:#59716C}.strong{font:700 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#243E37}.footer{font:400 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:2px;fill:#668078}
+    </style>
+  </defs>
+  <rect width="1080" height="3375" fill="url(#bg)"/>
+  <circle cx="958" cy="120" r="230" fill="#D7EAE4" opacity=".72"/><circle cx="90" cy="420" r="160" fill="#F2DFC0" opacity=".55"/>
+
+  <text x="72" y="90" class="eyebrow">DAY 7 · 8 月 14 日 · 周五</text>
+  <text x="72" y="160" class="hero">九寨沟 · 从上往下慢慢玩</text>
+  <text x="72" y="207" class="sub">全天景区观光车｜住沟口，步行 10–15 分钟入园</text>
+  <rect x="60" y="245" width="960" height="165" rx="32" fill="#2F7160" filter="url(#shadow)"/>
+  <text x="108" y="300" class="sans" font-size="24" letter-spacing="3" fill="#B8D9C7">🚌 今日交通 · 景区观光车</text>
+  <text x="108" y="350" class="sans" font-size="34" font-weight="700" fill="#FFFFFF">日则沟 → 则查洼沟 → 树正沟</text>
+  <text x="108" y="390" class="sans" font-size="23" fill="#D9EADF">住沟口步行 10–15 分钟入园 · 全程随上随下，从高到低不走回头路</text>
+
+  <rect x="60" y="440" width="960" height="128" rx="28" fill="#FFFDF9" filter="url(#shadow)"/>
+  <rect x="60" y="440" width="16" height="128" rx="8" fill="#E8914A"/>
+  <text x="108" y="493" class="title" font-size="29" style="fill:#A65825">⛈️ 天气与穿搭｜阴天 15–28℃ · 可能有局地阵雨</text>
+  <text x="108" y="537" class="small">短袖/长袖打底＋抓绒或薄羽绒＋轻薄雨衣；长裤、防滑鞋、帽子和防晒都带上。</text>
+
+  <g transform="translate(0 150)">
+  <text x="72" y="446" class="title" font-size="34">今天怎么安排？</text>
+  <text x="72" y="490" class="sub">先右支日则沟，再左支则查洼沟，最后沿树正沟一路下行出沟。</text>
+  <line x1="98" y1="550" x2="98" y2="995" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="98" cy="570" r="16" fill="#EF9443"/><text x="140" y="580" class="strong">09:30–10:00　入园，先坐车到五花海</text><text x="140" y="618" class="small">门票和观光车提前预约；自带泡面、面包和水，别在餐厅排队。</text>
+  <circle cx="98" cy="695" r="16" fill="#2F7160"/><text x="140" y="705" class="strong">上午　日则沟精华：五花海 → 珍珠滩 → 镜海</text><text x="140" y="743" class="small">五花海和珍珠滩必去；镜海以停车拍照为主，不必多走。</text>
+  <circle cx="98" cy="820" r="16" fill="#2F7160"/><text x="140" y="830" class="strong">中午　诺日朗中心休息、转车去长海</text><text x="140" y="868" class="small">坐观光车，不走回头路；午餐吃自带干粮，补水后再继续。</text>
+  <circle cx="98" cy="945" r="16" fill="#2F7160"/><text x="140" y="955" class="strong">下午　长海 → 五彩池 → 树正沟 → 16:30 出沟</text><text x="140" y="993" class="small">尽量在 17:00 前离开景区，避开傍晚出沟高峰。</text>
+
+  <rect x="60" y="1050" width="960" height="304" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
+  <text x="108" y="1110" class="title">🌊 日则沟｜上午必玩精华</text>
+  <text x="108" y="1155" class="strong">① 五花海｜必去 · 约15–20分钟</text>
+  <text x="108" y="1192" class="small">📸 翠绿、宝蓝、橙黄交织，是九寨最经典的湖；拍照后慢慢走，不赶路。</text>
+  <text x="108" y="1236" class="strong">② 珍珠滩瀑布｜必去 · 约15–20分钟</text>
+  <text x="108" y="1273" class="small">💦 《西游记》取景地，栈道沿瀑布边缘走，整体平缓；湿滑时扶好栏杆。</text>
+  <text x="108" y="1317" class="small">🪞 镜海：上午倒影最好，停车看一眼、拍一张即可，再坐车到诺日朗中心。</text>
+
+  <rect x="60" y="1394" width="960" height="270" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
+  <text x="108" y="1454" class="title">🍞 诺日朗中心｜午餐与转车</text>
+  <text x="108" y="1499" class="small">🥪 吃自带的泡面、面包和水；景区餐厅贵、排队久，不建议把时间耗在这里。</text>
+  <text x="108" y="1541" class="small">🚻 上洗手间、补水、休息 15–20 分钟；父母累了就多坐一会儿。</text>
+  <text x="108" y="1583" class="small">🚌 从这里转观光车去长海；长海海拔约3100m，车上先把外套穿好。</text>
+  <text x="108" y="1625" class="small">⚠️ 头晕、胸闷或走不动就说，今天可以直接跳过树正沟后半段。</text>
+
+  <rect x="60" y="1704" width="960" height="265" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
+  <text x="108" y="1764" class="title">🏔️ 则查洼沟｜中午必去两站</text>
+  <text x="108" y="1809" class="strong">① 长海｜3100m · 下车即到</text>
+  <text x="108" y="1846" class="small">雪山倒影、九寨最大的海子；高处会凉，慢慢拍照即可，不做长距离步行。</text>
+  <text x="108" y="1890" class="strong">② 五彩池｜约15–20分钟</text>
+  <text x="108" y="1927" class="small">从长海约800m平缓下坡，颜色最艳丽；父母体力一般时只看长海也完全可以。</text>
+
+  <rect x="60" y="2009" width="960" height="390" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
+  <text x="108" y="2069" class="title">🌿 树正沟｜下午按体力选</text>
+  <text x="108" y="2114" class="strong">⭐ 轻松版（推荐父母）</text>
+  <text x="108" y="2151" class="small">树正群海 → 火花海 → 上车出沟。栈道平缓，保留最漂亮的层叠海子。</text>
+  <text x="108" y="2195" class="strong">⭐ 状态好再加：诺日朗瀑布</text>
+  <text x="108" y="2232" class="small">中国最宽的钙华瀑布，观景点近；之后可按时间去树正群海。</text>
+  <text x="108" y="2276" class="small">🚌 树正沟顺序：诺日朗瀑布 → 犀牛海 → 老虎海 → 树正群海 → 火花海 → 盆景滩。</text>
+  <text x="108" y="2318" class="small">📸 盆景滩是最后一站；上车约20分钟回景区大门，不必把每个站都走一遍。</text>
+  <text x="108" y="2360" class="small">👟 全日步行约5–7km；脚累了就多坐车，重点是看景，不是完成打卡。</text>
+
+  <rect x="60" y="2439" width="960" height="202" rx="32" fill="#FFF0DF" filter="url(#shadow)"/>
+  <text x="108" y="2499" class="title" fill="#A65825">⚠️ 今日特别提醒</text>
+  <text x="108" y="2544" class="small">高处长海可能只有5–8℃：外套一直放随身包；下雨时栈道滑，慢走扶栏杆。</text>
+  <text x="108" y="2586" class="small">下午 16:30 左右开始往出口走；不舒服就减站、坐车，绝不硬撑。</text>
+
+  <rect x="60" y="2681" width="960" height="175" rx="32" fill="#F8E5E2" filter="url(#shadow)"/>
+  <text x="108" y="2741" class="title" fill="#AD503C">🚭 景区抽烟提醒</text>
+  <text x="108" y="2786" class="small">海拔2000–3100m、全天走路较多：走着别抽，休息时再抽；禁烟区域必须遵守。</text>
+  <text x="108" y="2828" class="small">晚上回沟口好好吃饭、补水、早点休息，为明天返程留足体力。</text>
+
+  <rect x="60" y="2886" width="960" height="202" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
+  <text x="108" y="2946" class="title">🛏️ 出沟后的晚上</text>
+  <text x="108" y="2991" class="small">17:00–17:30 出沟，步行回沟口酒店休息；18:30 在商业街晚餐。</text>
+  <text x="108" y="3033" class="small">🍜 明早要赶高铁：晚餐后确认行李、身份证和车次；不用再安排额外景点。</text>
+  <text x="108" y="3075" class="small">🫧 沟口约2000m，今晚正常休息即可；若仍不舒服及时告诉家人，不要隐瞒。</text>
+
+  <text x="72" y="3165" class="footer">ENJOIN YOURSELF · 安全第一，不赶路</text>
+  </g>
+</svg>

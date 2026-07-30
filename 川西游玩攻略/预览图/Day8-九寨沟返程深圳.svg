@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3675" viewBox="0 0 1080 3675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F1E3"/><stop offset=".54" stop-color="#EEF4EF"/><stop offset="1" stop-color="#E3F0EC"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18483D"/><stop offset="1" stop-color="#2F7160"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="13" stdDeviation="18" flood-color="#557066" flood-opacity=".14"/></filter>
+    <style>
+      .sans{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}.eyebrow{font:600 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:3px;fill:#668078}.hero{font:800 49px "PingFang SC","Microsoft YaHei",sans-serif;fill:#173E35}.sub{font:400 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#58716B}.title{font:700 31px "PingFang SC","Microsoft YaHei",sans-serif;fill:#2E7060}.small{font:400 25px "PingFang SC","Microsoft YaHei",sans-serif;fill:#59716C}.strong{font:700 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#243E37}.footer{font:400 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:2px;fill:#668078}
+    </style>
+  </defs>
+  <rect width="1080" height="3675" fill="url(#bg)"/>
+  <circle cx="955" cy="125" r="235" fill="#D7EAE4" opacity=".72"/><circle cx="90" cy="395" r="150" fill="#F2DFC0" opacity=".55"/>
+
+  <text x="72" y="90" class="eyebrow">DAY 8 · 8 月 15 日 · 周六</text>
+  <text x="72" y="160" class="hero">九寨沟 → 深圳 · 平安返程</text>
+  <text x="72" y="207" class="sub">直通车 / 网约车 → 高铁 → 成都双流机场 → 飞机</text>
+  <rect x="60" y="245" width="960" height="255" rx="32" fill="url(#hero)" filter="url(#shadow)"/>
+  <text x="108" y="295" class="sans" font-size="23" letter-spacing="3" fill="#B8D9C7">🚐 接驳车</text>
+  <text x="108" y="352" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">九寨沟沟口</text>
+  <path d="M382 336 H542" stroke="#B7D8C6" stroke-width="3" stroke-dasharray="10 10"/><path d="M514 324 l25 12 -25 12z" fill="#B7D8C6"/>
+  <text x="575" y="352" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">黄龙九寨站</text>
+  <text x="108" y="412" class="sans" font-size="24" fill="#E6F4EC">约 90km / 约 2小时　·　08:00–08:30 出发</text>
+  <text x="108" y="452" class="sans" font-size="23" fill="#B8D9C7">前一晚确认上车点和司机；雨天建议 07:45 出发</text>
+
+  <rect x="60" y="525" width="960" height="255" rx="32" fill="url(#hero)" filter="url(#shadow)"/>
+  <text x="108" y="575" class="sans" font-size="23" letter-spacing="3" fill="#B8D9C7">🚄 高铁信息</text>
+  <text x="108" y="632" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">黄龙九寨站</text>
+  <path d="M382 616 H542" stroke="#B7D8C6" stroke-width="3" stroke-dasharray="10 10"/><path d="M514 604 l25 12 -25 12z" fill="#B7D8C6"/>
+  <text x="575" y="632" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">双流机场站</text>
+  <text x="108" y="692" class="sans" font-size="24" fill="#E6F4EC">C6368　10:30 发车 → 12:46 到达　·　约 2小时16分钟</text>
+  <text x="108" y="732" class="sans" font-size="23" fill="#B8D9C7">到站后跟“机场 T2”指示走，电梯上楼步行约 5–10分钟</text>
+
+  <rect x="60" y="805" width="960" height="275" rx="32" fill="url(#hero)" filter="url(#shadow)"/>
+  <text x="108" y="855" class="sans" font-size="23" letter-spacing="3" fill="#B8D9C7">✈️ 航班信息</text>
+  <text x="108" y="930" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">成都双流 T2</text>
+  <path d="M382 914 H542" stroke="#B7D8C6" stroke-width="3" stroke-dasharray="10 10"/><path d="M514 902 l25 12 -25 12z" fill="#B7D8C6"/>
+  <text x="575" y="930" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">深圳宝安 T3</text>
+  <text x="108" y="992" class="sans" font-size="27" fill="#E6F4EC">EU2219　16:30 起飞 → 18:55 到达</text>
+  <text x="108" y="1030" class="sans" font-size="23" fill="#B8D9C7">飞行约 2小时25分钟 · 机场站步行 5–10分钟到 T2</text>
+
+  <rect x="60" y="1110" width="960" height="128" rx="28" fill="#FFFDF9" filter="url(#shadow)"/>
+  <rect x="60" y="1110" width="16" height="128" rx="8" fill="#E8914A"/>
+  <text x="108" y="1163" class="title" style="fill:#A65825">⛈️ 天气与穿搭｜仍按雨季阵雨准备</text>
+  <text x="108" y="1207" class="small">沟口早晚偏凉、成都机场较闷热：短袖/薄长袖＋轻薄防水外套；伞和干衣服放随身包。</text>
+
+  <g transform="translate(0 815)">
+  <text x="72" y="455" class="title" font-size="34">今天的关键时间</text>
+  <text x="72" y="499" class="sub">全程有超过 3 个半小时机场缓冲，不用赶，但每一段都按时间出发。</text>
+  <line x1="98" y1="560" x2="98" y2="1175" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="98" cy="580" r="16" fill="#EF9443"/><text x="140" y="590" class="strong">07:30　起床、早餐、收拾行李退房</text><text x="140" y="628" class="small">身份证、手机、充电宝、车票和登机牌集中放一个随身包。</text>
+  <circle cx="98" cy="705" r="16" fill="#2F7160"/><text x="140" y="715" class="strong">08:00–08:30　沟口出发去黄龙九寨站</text><text x="140" y="753" class="small">约90km / 约2小时；前一晚确认直通车或网约车上车点和司机电话。</text>
+  <circle cx="98" cy="830" r="16" fill="#2F7160"/><text x="140" y="840" class="strong">10:30　C6368 高铁：黄龙九寨 → 双流机场</text><text x="140" y="878" class="small">全程约2小时16分钟；上车后吃点东西、闭目休息，别在车厢来回走动。</text>
+  <circle cx="98" cy="955" r="16" fill="#2F7160"/><text x="140" y="965" class="strong">12:46　抵达双流机场站，站内上楼到 T2</text><text x="140" y="1003" class="small">电梯上楼步行约5–10分钟；先确认航显，再找地方休息、吃午餐。</text>
+  <circle cx="98" cy="1080" r="16" fill="#2F7160"/><text x="140" y="1090" class="strong">16:30　成都双流 T2 起飞 → 18:55 抵达深圳宝安 T3</text><text x="140" y="1128" class="small">成都航空 EU2219；飞行约2小时25分钟，安全回家。</text>
+
+  <rect x="60" y="1225" width="960" height="260" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
+  <text x="108" y="1285" class="title">🚐 沟口到高铁站｜出发前一晚确认</text>
+  <text x="108" y="1330" class="small">📞 确认车辆、上车地点、出发时间；截图保存司机电话，早上不用临时找车。</text>
+  <text x="108" y="1372" class="small">🧳 行李放后备箱后核对：身份证、手机、钱包、药、充电宝一个都别落。</text>
+  <text x="108" y="1414" class="small">🌧️ 雨天山路慢一点很正常；宁可早出发，不催司机、不压缩安全时间。</text>
+  <text x="108" y="1456" class="small">🍪 车上备水和小零食，父母若晕车可提前吃药、坐前排并看远处。</text>
+
+  <rect x="60" y="1525" width="960" height="260" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
+  <text x="108" y="1585" class="title">🚄 高铁与机场换乘｜其实很从容</text>
+  <text x="108" y="1630" class="small">🚆 10:30 发车，12:46 抵达双流机场站；下车跟着“机场 T2”指示走电梯上楼。</text>
+  <text x="108" y="1672" class="small">🛫 到航站楼约12:55，距离16:30起飞仍有3个半小时以上：先吃饭、休息，再办手续。</text>
+  <text x="108" y="1714" class="small">📱 提前在航空公司 App 办好值机；托运行李、安检后，找靠近登机口的位置坐着等。</text>
+  <text x="108" y="1756" class="small">🔋 充电宝必须随身携带；液体、雨伞等按安检要求整理，避免临时翻行李。</text>
+
+  <rect x="60" y="1825" width="960" height="250" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
+  <text x="108" y="1885" class="title">🍜 机场等待怎么安排</text>
+  <text x="108" y="1930" class="small">先吃午餐、补水；机场空调可能凉，外套不要托运，随手带着。</text>
+  <text x="108" y="1972" class="small">😴 父母可以找座位休息；登机前 40 分钟开始往登机口走，不需要提前很久站着等。</text>
+  <text x="108" y="2014" class="small">📸 家人互相确认登机牌和身份证；听到登机广播再慢慢过去即可。</text>
+  <text x="108" y="2056" class="small">🧥 到深圳后会更热，落地前可换薄外套或短袖，别捂出汗。</text>
+
+  <rect x="60" y="2115" width="960" height="202" rx="32" fill="#FFF0DF" filter="url(#shadow)"/>
+  <text x="108" y="2175" class="title">⚠️ 今日特别提醒</text>
+  <text x="108" y="2220" class="small">返程重点不是赶时间，而是防漏带、防淋雨、防疲劳；每次下车前都回头看一眼座位。</text>
+  <text x="108" y="2262" class="small">若山路受雨影响或列车有调整，先听车站和航空公司通知，保持联系、别着急。</text>
+  <text x="108" y="2304" class="small">全程已回到低海拔，身体不适仍要及时说；到家后好好吃饭、洗澡、休息。</text>
+
+  <rect x="60" y="2357" width="960" height="175" rx="32" fill="#F8E5E2" filter="url(#shadow)"/>
+  <text x="108" y="2417" class="title">🚭 抽烟提醒</text>
+  <text x="108" y="2462" class="small">今天主要是乘车和候机：车站、机场、飞机上都按规定禁烟；到指定吸烟区再抽。</text>
+  <text x="108" y="2504" class="small">长途返程容易口干，多喝水，别空腹连着抽。</text>
+
+  <rect x="60" y="2562" width="960" height="176" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
+  <text x="108" y="2622" class="title">🏠 到深圳后</text>
+  <text x="108" y="2667" class="small">18:55 抵达宝安 T3；取完行李再各自回家，今晚不再安排任何行程。</text>
+  <text x="108" y="2709" class="small">这趟旅程圆满结束：平安到家比什么都重要。</text>
+  <text x="72" y="2795" class="footer">ENJOIN YOURSELF · 平安返程，一路顺利</text>
+  </g>
+</svg>

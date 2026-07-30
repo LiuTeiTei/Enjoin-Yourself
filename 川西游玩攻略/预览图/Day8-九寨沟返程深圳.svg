@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3675" viewBox="0 0 1080 3675">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3748" viewBox="0 0 1080 3748">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F1E3"/><stop offset=".54" stop-color="#EEF4EF"/><stop offset="1" stop-color="#E3F0EC"/></linearGradient>
     <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18483D"/><stop offset="1" stop-color="#2F7160"/></linearGradient>
@@ -7,12 +7,14 @@
       .sans{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}.eyebrow{font:600 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:3px;fill:#668078}.hero{font:800 49px "PingFang SC","Microsoft YaHei",sans-serif;fill:#173E35}.sub{font:400 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#58716B}.title{font:700 31px "PingFang SC","Microsoft YaHei",sans-serif;fill:#2E7060}.small{font:400 25px "PingFang SC","Microsoft YaHei",sans-serif;fill:#59716C}.strong{font:700 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#243E37}.footer{font:400 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:2px;fill:#668078}
     </style>
   </defs>
-  <rect width="1080" height="3675" fill="url(#bg)"/>
+  <rect width="1080" height="3748" fill="url(#bg)"/>
   <circle cx="955" cy="125" r="235" fill="#D7EAE4" opacity=".72"/><circle cx="90" cy="395" r="150" fill="#F2DFC0" opacity=".55"/>
 
-  <text x="72" y="90" class="eyebrow">DAY 8 · 8 月 15 日 · 周六</text>
-  <text x="72" y="160" class="hero">九寨沟 → 深圳 · 平安返程</text>
-  <text x="72" y="207" class="sub">直通车 / 网约车 → 高铁 → 成都双流机场 → 飞机</text>
+  <text x="72" y="94" class="sans" font-size="27" letter-spacing="3" fill="#41685B">川西小环线 · 8日游</text>
+  <text x="72" y="167" class="sans" font-size="64" font-weight="800" fill="#173E34">DAY 8</text>
+  <text x="72" y="222" class="sans" font-size="41" font-weight="700" fill="#173E34">九寨沟 → 深圳 · 平安返程</text>
+  <text x="72" y="269" class="sans" font-size="27" fill="#5B756D">8月15日 · 周六 · 直通车 + 高铁 + 飞机</text>
+  <g transform="translate(0 73)">
   <rect x="60" y="245" width="960" height="255" rx="32" fill="url(#hero)" filter="url(#shadow)"/>
   <text x="108" y="295" class="sans" font-size="23" letter-spacing="3" fill="#B8D9C7">🚐 接驳车</text>
   <text x="108" y="352" class="sans" font-size="36" font-weight="700" fill="#FFFFFF">九寨沟沟口</text>
@@ -89,5 +91,6 @@
   <text x="108" y="2667" class="small">18:55 抵达宝安 T3；取完行李再各自回家，今晚不再安排任何行程。</text>
   <text x="108" y="2709" class="small">这趟旅程圆满结束：平安到家比什么都重要。</text>
   <text x="72" y="2795" class="footer">ENJOIN YOURSELF · 平安返程，一路顺利</text>
+  </g>
   </g>
 </svg>

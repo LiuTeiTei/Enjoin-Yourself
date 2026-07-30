@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3748" viewBox="0 0 1080 3748">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3783" viewBox="0 0 1080 3783">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F1E3"/><stop offset=".54" stop-color="#EEF4EF"/><stop offset="1" stop-color="#E3F0EC"/></linearGradient>
     <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18483D"/><stop offset="1" stop-color="#2F7160"/></linearGradient>
@@ -7,7 +7,7 @@
       .sans{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}.eyebrow{font:600 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:3px;fill:#668078}.hero{font:800 49px "PingFang SC","Microsoft YaHei",sans-serif;fill:#173E35}.sub{font:400 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#58716B}.title{font:700 31px "PingFang SC","Microsoft YaHei",sans-serif;fill:#2E7060}.small{font:400 25px "PingFang SC","Microsoft YaHei",sans-serif;fill:#59716C}.strong{font:700 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#243E37}.footer{font:400 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:2px;fill:#668078}
     </style>
   </defs>
-  <rect width="1080" height="3748" fill="url(#bg)"/>
+  <rect width="1080" height="3783" fill="url(#bg)"/>
   <circle cx="955" cy="125" r="235" fill="#D7EAE4" opacity=".72"/><circle cx="90" cy="395" r="150" fill="#F2DFC0" opacity=".55"/>
 
   <text x="72" y="94" class="sans" font-size="27" letter-spacing="3" fill="#41685B">川西小环线 · 8日游</text>
@@ -44,7 +44,7 @@
   <text x="108" y="1163" class="title" style="fill:#A65825">⛈️ 天气与穿搭｜仍按雨季阵雨准备</text>
   <text x="108" y="1207" class="small">沟口早晚偏凉、成都机场较闷热：短袖/薄长袖＋轻薄防水外套；伞和干衣服放随身包。</text>
 
-  <g transform="translate(0 815)">
+  <g transform="translate(0 850)">
   <text x="72" y="455" class="title" font-size="34">今天的关键时间</text>
   <text x="72" y="499" class="sub">全程有超过 3 个半小时机场缓冲，不用赶，但每一段都按时间出发。</text>
   <line x1="98" y1="560" x2="98" y2="1175" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>

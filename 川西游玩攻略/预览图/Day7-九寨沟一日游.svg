@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3448" viewBox="0 0 1080 3448">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3483" viewBox="0 0 1080 3483">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F1E3"/><stop offset=".55" stop-color="#EEF4EF"/><stop offset="1" stop-color="#E4F0EC"/></linearGradient>
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="13" stdDeviation="18" flood-color="#557066" flood-opacity=".14"/></filter>
@@ -6,7 +6,7 @@
       .sans{font-family:"PingFang SC","Microsoft YaHei",Arial,sans-serif}.eyebrow{font:600 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:3px;fill:#668078}.hero{font:800 49px "PingFang SC","Microsoft YaHei",sans-serif;fill:#173E35}.sub{font:400 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#58716B}.title{font:700 31px "PingFang SC","Microsoft YaHei",sans-serif;fill:#2E7060}.small{font:400 25px "PingFang SC","Microsoft YaHei",sans-serif;fill:#59716C}.strong{font:700 27px "PingFang SC","Microsoft YaHei",sans-serif;fill:#243E37}.footer{font:400 22px "PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:2px;fill:#668078}
     </style>
   </defs>
-  <rect width="1080" height="3448" fill="url(#bg)"/>
+  <rect width="1080" height="3483" fill="url(#bg)"/>
   <circle cx="958" cy="120" r="230" fill="#D7EAE4" opacity=".72"/><circle cx="90" cy="420" r="160" fill="#F2DFC0" opacity=".55"/>
 
   <text x="72" y="94" class="sans" font-size="27" letter-spacing="3" fill="#41685B">川西小环线 · 8日游</text>
@@ -24,14 +24,14 @@
   <text x="108" y="493" class="title" font-size="29" style="fill:#A65825">⛈️ 天气与穿搭｜阴天 15–28℃ · 可能有局地阵雨</text>
   <text x="108" y="537" class="small">短袖/长袖打底＋抓绒或薄羽绒＋轻薄雨衣；长裤、防滑鞋、帽子和防晒都带上。</text>
 
-  <g transform="translate(0 150)">
-  <text x="72" y="446" class="title" font-size="34">今天怎么安排？</text>
-  <text x="72" y="490" class="sub">先右支日则沟，再左支则查洼沟，最后沿树正沟一路下行出沟。</text>
-  <line x1="98" y1="550" x2="98" y2="995" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
-  <circle cx="98" cy="570" r="16" fill="#EF9443"/><text x="140" y="580" class="strong">09:30–10:00　入园，先坐车到五花海</text><text x="140" y="618" class="small">门票和观光车提前预约；自带泡面、面包和水，别在餐厅排队。</text>
-  <circle cx="98" cy="695" r="16" fill="#2F7160"/><text x="140" y="705" class="strong">上午　日则沟精华：五花海 → 珍珠滩 → 镜海</text><text x="140" y="743" class="small">五花海和珍珠滩必去；镜海以停车拍照为主，不必多走。</text>
-  <circle cx="98" cy="820" r="16" fill="#2F7160"/><text x="140" y="830" class="strong">中午　诺日朗中心休息、转车去长海</text><text x="140" y="868" class="small">坐观光车，不走回头路；午餐吃自带干粮，补水后再继续。</text>
-  <circle cx="98" cy="945" r="16" fill="#2F7160"/><text x="140" y="955" class="strong">下午　长海 → 五彩池 → 树正沟 → 16:30 出沟</text><text x="140" y="993" class="small">尽量在 17:00 前离开景区，避开傍晚出沟高峰。</text>
+  <g transform="translate(0 185)">
+  <text x="72" y="446" class="title" font-size="34">今日时间线</text>
+  <line x1="72" y1="473" x2="1008" y2="473" stroke="#C9D8D0" stroke-width="2"/>
+  <line x1="98" y1="518" x2="98" y2="963" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="98" cy="538" r="16" fill="#EF9443"/><text x="140" y="548" class="strong">09:30–10:00　入园，先坐车到五花海</text><text x="140" y="586" class="small">门票和观光车提前预约；自带泡面、面包和水，别在餐厅排队。</text>
+  <circle cx="98" cy="663" r="16" fill="#2F7160"/><text x="140" y="673" class="strong">上午　日则沟精华：五花海 → 珍珠滩 → 镜海</text><text x="140" y="711" class="small">五花海和珍珠滩必去；镜海以停车拍照为主，不必多走。</text>
+  <circle cx="98" cy="788" r="16" fill="#2F7160"/><text x="140" y="798" class="strong">中午　诺日朗中心休息、转车去长海</text><text x="140" y="836" class="small">坐观光车，不走回头路；午餐吃自带干粮，补水后再继续。</text>
+  <circle cx="98" cy="913" r="16" fill="#2F7160"/><text x="140" y="923" class="strong">下午　长海 → 五彩池 → 树正沟 → 16:30 出沟</text><text x="140" y="961" class="small">尽量在 17:00 前离开景区，避开傍晚出沟高峰。</text>
 
   <rect x="60" y="1050" width="960" height="304" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="1110" class="title">🌊 日则沟｜上午必玩精华</text>

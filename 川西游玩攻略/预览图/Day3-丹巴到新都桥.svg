@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3920" viewBox="0 0 1080 3920">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3855" viewBox="0 0 1080 3855">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF8ED"/><stop offset="0.45" stop-color="#F4EEE0"/><stop offset="1" stop-color="#E3EFEA"/></linearGradient>
     <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18483D"/><stop offset="1" stop-color="#2F7160"/></linearGradient>
@@ -10,7 +10,7 @@
       .small { font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif; fill:#5F716B; font-size:22px; }
     </style>
   </defs>
-  <rect width="1080" height="3920" fill="url(#bg)"/>
+  <rect width="1080" height="3855" fill="url(#bg)"/>
   <circle cx="1005" cy="95" r="260" fill="#D7E5D9" opacity=".65"/>
   <circle cx="-100" cy="5150" r="300" fill="#F3DAB6" opacity=".48"/>
   <text x="72" y="94" class="sans" font-size="27" letter-spacing="3" fill="#41685B">川西小环线 · 8日游</text>
@@ -44,7 +44,7 @@
   <text x="108" y="1605" class="small">📸 看金字塔般的雅拉雪山，山形壮观；风大，下车先穿外套。</text>
   <text x="108" y="1640" class="small">⚠️ 第一天连续高海拔活动，拍照即可，不要快走、跑跳或久站。</text>
 
-  <g transform="translate(0 -35)">
+  <g transform="translate(0 -45)">
   <rect x="60" y="1750" width="960" height="235" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="1810" class="title" font-size="30" fill="#2F7160">🪨 墨石公园｜3500m · 游玩约2小时</text>
   <text x="108" y="1855" class="small">🚌 大门坐观光车约5分钟到核心区；沿栈道走进灰色糜棱岩石林。</text>
@@ -53,7 +53,7 @@
   <text x="108" y="1960" class="small">📸 穿红/白/橙等亮色更出片，灰色石林背景下对比最明显。</text>
   </g>
 
-  <g transform="translate(0 -110)">
+  <g transform="translate(0 -135)">
   <rect x="60" y="2115" width="960" height="235" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="2175" class="title" font-size="30" fill="#A65825">🛕 木雅大寺｜备选 · 游玩约1小时</text>
   <text x="108" y="2220" class="small">🚗 从墨石约20km / 30分钟；不去就直接前往塔公草原。</text>
@@ -62,7 +62,7 @@
   <text x="108" y="2325" class="small">🚫 禁飞无人机；父母累了可跳过，把体力留给塔公和日落。</text>
   </g>
 
-  <g transform="translate(0 -178)">
+  <g transform="translate(0 -218)">
   <rect x="60" y="2473" width="960" height="200" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="2533" class="title" font-size="30" fill="#2F7160">🌿 塔公草原｜3700m · 免费 · 16:00–17:30</text>
   <text x="108" y="2578" class="small">📸 金塔 + 雅拉雪山是经典机位；可骑马，可现场询价。</text>
@@ -70,7 +70,7 @@
   <text x="108" y="2648" class="small">☕ 想安静可再开几分钟到姑弄村：人少，可在小溪边喝咖啡看雪山。</text>
   </g>
 
-  <g transform="translate(0 -253)">
+  <g transform="translate(0 -308)">
   <rect x="60" y="2803" width="960" height="525" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="2863" class="title" font-size="31" fill="#A65825">🌅 日落怎么选？按体力和天气三选一</text>
   <text x="108" y="2913" class="title" font-size="27" fill="#2F7160">A｜新都桥贡嘎雪山观景台 · 最轻松，推荐父母</text>
@@ -85,7 +85,7 @@
   <text x="108" y="3300" class="small">⏭️ 不看日落：镇内或周边拍照也很美，约19:00吃晚餐。</text>
   </g>
 
-  <g transform="translate(0 -333)">
+  <g transform="translate(0 -403)">
   <rect x="60" y="3463" width="960" height="210" rx="32" fill="#FFF0DF" filter="url(#shadow)"/>
   <text x="108" y="3523" class="title" font-size="30" fill="#A65825">⚠️ 今日特别提醒</text>
   <text x="108" y="3568" class="small">G248雨季有地质灾害风险，山区行车多观察路况；全程车程虽短，也别赶。</text>
@@ -93,14 +93,14 @@
   <text x="108" y="3638" class="small">木雅大寺和日落均为备选，当天按父母体力、天气决定；今晚不洗澡洗头。</text>
   </g>
 
-  <g transform="translate(0 -353)">
+  <g transform="translate(0 -418)">
   <rect x="60" y="3728" width="960" height="170" rx="32" fill="#F8E5E2" filter="url(#shadow)"/>
   <text x="108" y="3788" class="title" font-size="30" fill="#AD503C">🚭 高海拔抽烟提醒</text>
   <text x="108" y="3833" class="small">全天多在3500m以上，是身体适应高原的关键期，尽量少抽。</text>
   <text x="108" y="3868" class="small">新都桥3460m过夜，室外可酌情一两根，别连着抽。</text>
   </g>
 
-  <g transform="translate(0 -400)">
+  <g transform="translate(0 -455)">
   <rect x="60" y="3975" width="960" height="240" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
   <text x="108" y="4035" class="title" font-size="30" fill="#2F7160">🛏️ 今晚住宿</text>
   <text x="108" y="4080" class="body">新都桥（3460m）：务必确认酒店有供氧设备或地暖。</text>
@@ -108,5 +108,5 @@
   <text x="108" y="4152" class="small">🫧 进房先打开供氧；不舒服先休息、及时吸氧。</text>
   <text x="108" y="4187" class="small">🚑 仍不缓解或加重：立刻说出来、去医院，千万别硬扛。</text>
   </g>
-  <text x="72" y="3870" class="sans" font-size="22" letter-spacing="2" fill="#668078">ENJOIN YOURSELF · 安全第一，不赶路</text>
+  <text x="72" y="3815" class="sans" font-size="22" letter-spacing="2" fill="#668078">ENJOIN YOURSELF · 安全第一，不赶路</text>
 </svg>

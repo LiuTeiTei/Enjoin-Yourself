@@ -46,14 +46,14 @@
   <text x="108" y="1245" class="small" style="font-size:23px">伞和干衣服放随身包；到成都后再换薄衣。</text>
 
   <g transform="translate(0 885)">
-  <text x="72" y="455" class="title" font-size="34">今天的关键时间</text>
-  <text x="72" y="499" class="sub">全程有超过 3 个半小时机场缓冲，不用赶，但每一段都按时间出发。</text>
-  <line x1="98" y1="560" x2="98" y2="1175" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
-  <circle cx="98" cy="580" r="16" fill="#EF9443"/><text x="140" y="590" class="strong">07:30　起床、早餐、收拾行李退房</text><text x="140" y="628" class="small">身份证、手机、充电宝、车票和登机牌集中放一个随身包。</text>
-  <circle cx="98" cy="705" r="16" fill="#2F7160"/><text x="140" y="715" class="strong">08:00–08:30　沟口出发去黄龙九寨站</text><text x="140" y="753" class="small">约90km / 约2小时；前一晚确认直通车或网约车上车点和司机电话。</text>
-  <circle cx="98" cy="830" r="16" fill="#2F7160"/><text x="140" y="840" class="strong">10:30　C6368 高铁：黄龙九寨 → 双流机场</text><text x="140" y="878" class="small">全程约2小时16分钟；上车后吃点东西、闭目休息，别在车厢来回走动。</text>
-  <circle cx="98" cy="955" r="16" fill="#2F7160"/><text x="140" y="965" class="strong">12:46　抵达双流机场站，站内上楼到 T2</text><text x="140" y="1003" class="small">电梯上楼步行约5–10分钟；先确认航显，再找地方休息、吃午餐。</text>
-  <circle cx="98" cy="1080" r="16" fill="#2F7160"/><text x="140" y="1090" class="strong">16:30　成都双流 T2 起飞 → 18:55 抵达深圳宝安 T3</text><text x="140" y="1128" class="small">成都航空 EU2219；飞行约2小时25分钟，安全回家。</text>
+  <text x="72" y="455" class="title" font-size="34">今日时间线</text>
+  <line x1="72" y1="482" x2="1008" y2="482" stroke="#C9D8D0" stroke-width="2"/>
+  <line x1="98" y1="528" x2="98" y2="1143" stroke="#B9D8CC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="98" cy="548" r="16" fill="#EF9443"/><text x="140" y="558" class="strong">07:30　起床、早餐、收拾行李退房</text><text x="140" y="596" class="small">身份证、手机、充电宝、车票和登机牌集中放一个随身包。</text>
+  <circle cx="98" cy="673" r="16" fill="#2F7160"/><text x="140" y="683" class="strong">08:00–08:30　沟口出发去黄龙九寨站</text><text x="140" y="721" class="small">约90km / 约2小时；前一晚确认直通车或网约车上车点和司机电话。</text>
+  <circle cx="98" cy="798" r="16" fill="#2F7160"/><text x="140" y="808" class="strong">10:30　C6368 高铁：黄龙九寨 → 双流机场</text><text x="140" y="846" class="small">全程约2小时16分钟；上车后吃点东西、闭目休息，别在车厢来回走动。</text>
+  <circle cx="98" cy="923" r="16" fill="#2F7160"/><text x="140" y="933" class="strong">12:46　抵达双流机场站，站内上楼到 T2</text><text x="140" y="971" class="small">电梯上楼步行约5–10分钟；先确认航显，再找地方休息、吃午餐。</text>
+  <circle cx="98" cy="1048" r="16" fill="#2F7160"/><text x="140" y="1058" class="strong">16:30　成都双流 T2 起飞 → 18:55 抵达深圳宝安 T3</text><text x="140" y="1096" class="small">成都航空 EU2219；飞行约2小时25分钟，安全回家。</text>
 
   <rect x="60" y="1225" width="960" height="260" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="1285" class="title">🚐 沟口到高铁站｜出发前一晚确认</text>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3800" viewBox="0 0 1080 3800">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3550" viewBox="0 0 1080 3550">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF8ED"/><stop offset="0.46" stop-color="#F4EEE0"/><stop offset="1" stop-color="#E3EFEA"/></linearGradient>
     <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18483D"/><stop offset="1" stop-color="#2F7160"/></linearGradient>
@@ -10,7 +10,7 @@
       .small { font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif; fill:#5F716B; font-size:22px; }
     </style>
   </defs>
-  <rect width="1080" height="3800" fill="url(#bg)"/>
+  <rect width="1080" height="3550" fill="url(#bg)"/>
   <circle cx="1010" cy="100" r="258" fill="#D7E5D9" opacity=".65"/>
   <circle cx="-90" cy="4020" r="280" fill="#F3DAB6" opacity=".48"/>
   <text x="72" y="94" class="sans" font-size="27" letter-spacing="3" fill="#41685B">川西小环线 · 8日游</text>
@@ -45,22 +45,29 @@
   <text x="108" y="1675" class="small">🧥 体感接近0℃；下车前先穿厚外套，氧气瓶放车上随时取用。</text>
   <text x="108" y="1710" class="small">🚭 4200m坚决别抽；这是全程最高点。</text>
 
+  <g transform="translate(0 -39)">
   <rect x="60" y="1824" width="960" height="175" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="1884" class="title" font-size="30" fill="#2F7160">✈️ 网红机场路｜3700m · 停留约15分钟</text>
   <text x="108" y="1929" class="small">📸 434省道靠近康定机场的一段：公路 + 雪山 + 飞机同框。</text>
   <text x="108" y="1964" class="small">🅿️ 路边有停车区；拍照留意往来车辆，不在车道上停留。</text>
+  </g>
 
+  <g transform="translate(0 -39)">
   <rect x="60" y="2039" width="960" height="170" rx="32" fill="#FFF0DF" filter="url(#shadow)"/>
   <text x="108" y="2099" class="title" font-size="30" fill="#A65825">🍲 康定午餐｜12:00左右</text>
   <text x="108" y="2144" class="body">推荐菌王府菌汤锅：汤底鲜、可选不辣，适合父母补充体力。</text>
   <text x="108" y="2181" class="small">午餐后出发木格措；16:30停止入园，务必下午4点前到景区。</text>
+  </g>
 
+  <g transform="translate(0 -69)">
   <rect x="60" y="2279" width="960" height="205" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="2339" class="title" font-size="30" fill="#2F7160">🌊 木格措入园与交通｜2600–3780m · 游玩约3小时</text>
   <text x="108" y="2384" class="small">🎫 下午4点前入园；16:30停止入园。</text>
   <text x="108" y="2419" class="small">🚗 私家车停游客中心/停车场，核心景点必须换乘景区观光车。</text>
   <text x="108" y="2454" class="small">🚌 观光车覆盖主要站点；少走路版以短栈道拍照为主，适合带父母。</text>
+  </g>
 
+  <g transform="translate(0 -114)">
   <rect x="60" y="2569" width="960" height="285" rx="32" fill="#FFFDF9" filter="url(#shadow)"/>
   <text x="108" y="2629" class="title" font-size="30" fill="#2F7160">🗺️ 木格措轻松玩法｜从高处往下</text>
   <text x="108" y="2674" class="small">① 🚌 观光车约30分钟直达野人海（3780m）：蓝绿色高山湖，背靠雪山。</text>
@@ -68,21 +75,28 @@
   <text x="108" y="2744" class="small">③ 🚶 沿平缓栈道下行看千瀑峡；走累随时回观光车，不必硬走全程。</text>
   <text x="108" y="2779" class="small">④ 🥚 药池沸泉站可泡脚、买温泉煮蛋尝鲜；随后坐车返程。</text>
   <text x="108" y="2814" class="small">⏱️ 以观光车 + 短距离栈道为主，通常步行约1–2km；全程大段山路不用走。</text>
+  </g>
 
+  <g transform="translate(0 -163)">
   <rect x="60" y="2943" width="960" height="210" rx="32" fill="#FFF0DF" filter="url(#shadow)"/>
   <text x="108" y="3003" class="title" font-size="30" fill="#A65825">⚠️ 今日特别提醒</text>
   <text x="108" y="3048" class="small">434省道是景观大道，雨季相对安全；仍按山区路况慢开、观察路面。</text>
   <text x="108" y="3083" class="small">红海子状态不好立即跳过；木格措下午4点前入园，避免赶末班观光车。</text>
   <text x="108" y="3118" class="small">康定海拔2600m，今晚可以放心洗热水澡、洗头，好好恢复。</text>
+  </g>
 
+  <g transform="translate(0 -163)">
   <rect x="60" y="3193" width="960" height="190" rx="32" fill="#F8E5E2" filter="url(#shadow)"/>
   <text x="108" y="3253" class="title" font-size="30" fill="#AD503C">🚭 抽烟提醒</text>
   <text x="108" y="3298" class="small">红海子4200m是全程最高点，坚决别抽；机场路和木格措高处也尽量别抽。</text>
   <text x="108" y="3333" class="small">到康定（2600m）后可正常，但仍以休息、补水为先。</text>
+  </g>
 
+  <g transform="translate(0 -163)">
   <rect x="60" y="3423" width="960" height="195" rx="32" fill="#E5F0EA" filter="url(#shadow)"/>
   <text x="108" y="3483" class="title" font-size="30" fill="#2F7160">🛏️ 今晚住康定｜2600m</text>
   <text x="108" y="3528" class="body">入住后好好洗热水澡、洗头；晚餐可选溜溜城附近，饭后散步看夜景。</text>
   <text x="108" y="3565" class="small">相比新都桥含氧量更充足，今晚重点是放松、补水、早点休息。</text>
-  <text x="72" y="3720" class="sans" font-size="22" letter-spacing="2" fill="#668078">ENJOIN YOURSELF · 安全第一，不赶路</text>
+  </g>
+  <text x="72" y="3510" class="sans" font-size="22" letter-spacing="2" fill="#668078">ENJOIN YOURSELF · 安全第一，不赶路</text>
 </svg>
